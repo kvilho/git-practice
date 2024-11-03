@@ -1,5 +1,5 @@
-eggs
 milk
+eggs
 butter
 chicken
 ham
