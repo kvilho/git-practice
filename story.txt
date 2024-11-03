@@ -22,8 +22,4 @@ Hmm, this might be all right
 But wait, I hear they're prissy, bourgeois, and all that
 Is this the type of place that they should send this cool cat?
 I don't think so, I'll see when I get there
-<<<<<<< Updated upstream
-I hope they're prepared for the Prince of Bel-Air
-=======
 I hope they're prepared for the Fresh Prince of Bel-Air
->>>>>>> Stashed changes
