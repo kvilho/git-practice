@@ -5,4 +5,4 @@ chicken
 ham
 cream
 rice
-joulukinkku
+thanksgiving turkey
